@@ -17,6 +17,9 @@ Any C\C++ compiler with C++ 20 support
 
 CMake 3.10+
 
+###### Optional
+Just https://github.com/casey/just
+
 ### Dependencies
 SDL3 3.4.2 https://github.com/libsdl-org/SDL
 

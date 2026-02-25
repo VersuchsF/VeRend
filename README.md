@@ -4,7 +4,7 @@
 Created for the purpose of learning 3D graphics
 
 ## Prelude
-This is my second, more conscious attempt of making render engine.
+This is my second, more conscious, attempt of making render engine.
 
 This engine will contain rendering with OpenGL and Vulkan with simple implementation of other game engine features (Physics, Sound etc.).
 
@@ -25,7 +25,7 @@ GLM 1.0.3 https://github.com/g-truc/glm
 GLAD2 (OpenGL 4.6 Core) https://gen.glad.sh/
 
 ## Road map
-vaerion 1.0.0:
+Version 1.0.0:
 * 0.1.0:
   * Window creation
   * Logger
@@ -37,5 +37,5 @@ vaerion 1.0.0:
 
 *...soon...*
 
-version 2.0.0 *(Very much for the future)*: 
+Version 2.0.0 *(Very much for the future)*: 
 * Vulkan support.
